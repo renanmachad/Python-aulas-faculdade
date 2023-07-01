@@ -1,0 +1,9 @@
+
+Todo:
+  ☐ @critical Get  arguments with the class translate
+  ☐ @critical Print the file content
+  ☐ @critical  Send the file content to translate Class
+  ☐ @critical Create new file wit the translated content
+  ☐ @critical Create ENV for project and delete all packages installed in all pc
+  ☐ @critical DO not read python files, like "endswith(".py")
+ 
